@@ -1,0 +1,9 @@
+scriptsmith/scriptsmith/src/main/resources/application.properties
+
+scriptsmith/scriptsmith-ui/node_modules/
+scriptsmith/scriptsmith-ui/build/
+
+*.log
+*.tmp
+*.bak
+.DS_Store
